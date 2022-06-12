@@ -7,9 +7,10 @@ Grade: 80/100 (Distinction)
 ## Problem Description
 In this project, reinformcement learning agents are trained to play Super Mario Bros. The agents are trained on the [OpenAI gym-super-mario-bros environment](https://github.com/Kautenja/gym-super-mario-bros).
 
-![overview](problem-overview.png)
 
-Refer to the [video presentation](video_presentation_slides.pdf) slides for a high-level summary of the project. Detail discussion can be found in the [final report](https://github.com/sskyau/rl-super-mario/blob/main/Project%20Report.pdf). 
+[<p align="center"><img src="problem-overview.png" width="500"/></p>](./link/to/sql/file)
+
+Refer to the [video presentation slides](video_presentation_slides.pdf) for a high-level summary of the project. Detail discussion can be found in the [final report](https://github.com/sskyau/rl-super-mario/blob/main/Project%20Report.pdf). 
 
 ## Agents Trained
 
@@ -17,4 +18,4 @@ Three RL agents are trained in the project, namely DQN, DDQN and Dueling DQN. To
 
 #### Rolling average rewards gained by the agents during training
 
-![performance](agent_performances.png)
+[<p align="center"><img src="agent_performances.png" width="700" /></p>](./link/to/sql/file)
