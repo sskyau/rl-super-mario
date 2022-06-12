@@ -14,7 +14,7 @@ Refer to the [video presentation slides](video_presentation_slides.pdf) for a hi
 
 ## Agents Trained
 
-Three RL agents are trained in the project, namely DQN, DDQN and Dueling DQN. To simplify the training process, only the right_only action and a custom action set which contain 5 and 2 actions respectively are made available to the RL agents. 
+Three RL agents are trained in the project, namely **DQN**, **DDQN** and **Dueling DQN**. To simplify the training process, only the right_only action and a custom action set which contain 5 and 2 actions respectively are made available to the RL agents. 
 
 #### Rolling average rewards gained by the agents during training
 
